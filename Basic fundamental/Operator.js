@@ -1,32 +1,37 @@
-/* 📘 Operators in JavaScript (Overview)
-
+/*  
+    lecture #: 11
+        Topic: Operators in JavaScript (Overview)
+==============================================================================
 Operators are symbols used to perform operations on values or variables.
-
-🔹 Types of Operators in JavaScript
-1️⃣ Arithmetic Operators
+Operator VS Operands
+For Example :
+    2 + 3 = 5
+==========================
+    Types of Operators in JavaScript
+1️ Arithmetic Operators
 
 + , - , * , / , % , **
+==========================
 
-2️⃣ Assignment Operators
+2️ Arithmetic and  Assignment Operators
 
 = , += , -= , *= , /= , %= , **=
-
-3️⃣ Comparison Operators
+==========================
+3️ Comparison Operators
 
 == , === , != , !== , > , < , >= , <=
-
-4️⃣ Logical Operators
+==========================
+4️ Logical Operators
 
 && , || , !
-
-5️⃣ Unary Operators
+==========================
+5️ Unary Operators
 
 ++ , -- , + , - , typeof
-
-6️⃣ Ternary Operator
+==========================
+6️ Ternary Operator
 
 condition ? value1 : value2
-
-
+==========================
 
 */
