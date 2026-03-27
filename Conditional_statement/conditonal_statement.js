@@ -1,5 +1,5 @@
 /* 
-4. Conditional Statements
+    2.  Conditional Statements:
 
 Conditional statements are used to make decisions in code based on conditions.
 
