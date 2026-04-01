@@ -1,1 +1,1 @@
-num > 
+ console.log("Grade C");
