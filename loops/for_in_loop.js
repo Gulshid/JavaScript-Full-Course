@@ -1,3 +1,14 @@
+const User = {
+    name : "Gulshid Zada",
+    age : 23,
+    Marks : 89,
+};
+
+// Use for in loop
+for(let z in User)
+{
+    console.log(z, User[z]);
+}
 /*
 Lecture # 29
     Topic : for in Loop in JavaScript
