@@ -23,14 +23,23 @@ console.log("=================");
 let value = "Hello WOrld";
 console.log(value.includes("Hello"));
 console.log("=================");
-//6. split(), function / Method
 
+//6. split(), function / Method
+let data = "a,b,c";
+console.log(data.split(","));
+console.log("=================");
 
 //7. trim() function / Method
+let y = "  hello ";
+console.log(y.trim());
+console.log("=================");
 
 //8. toUpperCase() function / Method
+console.log("hello".toUpperCase());
+console.log("=================");
 
 //9.  toLowerCase() function / Method
+console.log("HELLO".toLowerCase());
 /*
 Lecture # 34
     Topic : String Methods in JavaScript
