@@ -1,1 +1,1 @@
- ["apple", "peach", "mango"];
+Apple
