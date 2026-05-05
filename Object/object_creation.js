@@ -1,7 +1,7 @@
 const users = {
     name : "Gulshid Zada",
     age : 23,
-    marks : 500
+    marks : 500,
 }
 
 console.log(users);
