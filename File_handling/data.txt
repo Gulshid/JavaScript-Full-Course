@@ -1,1 +1,2 @@
-Hello World ==> 123456
+This is write file in Js
+ Hello world 
